@@ -11,5 +11,7 @@
 	"id": "tv",
 	"icon": "logo.png",
 	"category": "tv",
-	"apiversion": 2
+	"apiversion": 2,
+	"download_url": "https://raw.githubusercontent.com/okmthiru04/movian-plugin-onlinetv/master/onlinetv.zip",
+  "plugin_logo": "https://raw.githubusercontent.com/okmthiru04/movian-plugin-onlinetv/master/logo.png"
 }
